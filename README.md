@@ -1,6 +1,10 @@
 # Project - Portfolio
-This project is from Antimo William Esposito and it is about creating a Portfolio page
-Hi there friends at Udacity!
+Hi there friends at Udacity & AT&T!
+
+This project is from Antimo William Esposito and it is about creating a Portfolio page.
+
+The project is available at https://muletto83.github.io/project-portfolio-may2018/
+
 
 ## Criteria Requirements
 * [Design](#Design)
